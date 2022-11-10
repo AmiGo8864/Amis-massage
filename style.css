@@ -1,12 +1,32 @@
-* {
-
-}
 
 body{
-
+    
 }
 
 img {
     width: 100%;
 }
 
+#padmar {
+    padding: 10px;
+    margin 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+.colorwhite {
+    color: white !important;
+}
+
+.bkclr {
+    background-color: #ffcb86;
+    padding: 0px;
+    margin: 0px;
+}
+
+#more {
+    background-color: #ffcb86;
+}
+
+.movedown {
+     margin-top:10px;
+}
